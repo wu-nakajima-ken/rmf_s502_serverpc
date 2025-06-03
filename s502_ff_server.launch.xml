@@ -14,7 +14,7 @@
     <param name="path_request_topic" value="robot_path_requests"/>
     <param name="destination_request_topic" value="robot_destination_requests"/>
 
-    <param name="dds_domain" value="42"/>
+    <param name="dds_domain" value="10"/>
     <param name="dds_robot_state_topic" value="robot_state"/>
     <param name="dds_mode_request_topic" value="mode_request"/>
     <param name="dds_path_request_topic" value="path_request"/>
