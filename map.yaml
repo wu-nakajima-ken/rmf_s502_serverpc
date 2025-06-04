@@ -1,4 +1,4 @@
-image: /root/rmf_s502_serverpc/s502.pgm
+image: /home/user/rmf_s502_serverpc/s502.pgm
 mode: trinary
 resolution: 0.0497
 origin: [0, -24.8997, 0]
