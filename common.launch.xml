@@ -65,7 +65,7 @@
   </group>
 
   <group if="$(var use_rmf_panel)">
-    <include file="/root/_real/dashboard.launch.xml">
+    <include file="/home/user/rmf_s502_serverpc/dashboard.launch.xml">
       <arg name="use_sim_time" value="$(var use_sim_time)"/>
       <arg name="dashboard_config_file" value ="$(var dashboard_config_file)"/>
     </include>
